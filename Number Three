@@ -1,0 +1,14 @@
+printf("Masukkan Angka:");
+scanf ("%d",&k);
+for(1=1;1<=k:m++)
+{
+	for(m=1;m<=k;m++)
+	{
+		printf("")
+	}
+	for(m=1;m<=1;m++)
+	}
+		printf('");
+	}
+	printf("\n");
+}
